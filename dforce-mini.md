@@ -7,6 +7,11 @@
 | 3  | DELTA_RADIUS       | 110          |
 | 4   | <Horizontal radius>                   | 127.950             |
 
+* For DELTA_DIAGONAL_ROD check
+https://chenfuguo.gitbooks.io/3d-printing/content/3D_printers/Delta_printer_Calibrating.html
+
+* For Z-Probing (BLTouch) check https://www.antclabs.com/bltouch
+
 D-Force mini stock firmware version is
 
 `READ: FIRMWARE_NAME:Repetier_0.91 FIRMWARE_URL:https://github.com/repetier/Repetier-Firmware/ PROTOCOL_VERSION:1.0 MACHINE_TYPE:Delta EXTRUDER_COUNT:1 REPETIER_PROTOCOL:2`
