@@ -7,8 +7,18 @@
 | 3  | DELTA_RADIUS       | 110          |
 | 4   | <Horizontal radius>                   | 127.950             |
 
+D-Force mini stock firmware version is
 
-## Value dumped from stock firmware
+`READ: FIRMWARE_NAME:Repetier_0.91 FIRMWARE_URL:https://github.com/repetier/Repetier-Firmware/ PROTOCOL_VERSION:1.0 MACHINE_TYPE:Delta EXTRUDER_COUNT:1 REPETIER_PROTOCOL:2`
+
+Use `M115` to acquire above firmware information.
+
+## Tutorials
+
+* [Wiring 3D Printer RAMPS 1.4](https://www.instructables.com/Wiring-3D-Printer-RAMPS-14/)
+
+
+## Value dumped from stock firmware `M503`
 <pre>
 READ: EPR:2 75 115200 Baudrate
 READ: EPR:3 129 2059.975 Filament printed [m]
